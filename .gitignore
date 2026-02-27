@@ -1,0 +1,23 @@
+# Environments
+.env
+env/
+venv/
+ENV/
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Local settings
+backend/settings.local.py
